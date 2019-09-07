@@ -44,6 +44,7 @@ Try this [tools](http://www.robots.ox.ac.uk/~vgg/software/via/) to make your own
 
 We present a being processed dataset from egohands in [datasets/hand](https://github.com/TsengMJ/Hand_Segmentation/tree/master/datasets/hand)
 
-
+## Training & Testing 
+If you want to train on your own dataset, please change the Paths in 
 
 
