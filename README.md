@@ -45,6 +45,18 @@ Try this [tools](http://www.robots.ox.ac.uk/~vgg/software/via/) to make your own
 We present a being processed dataset from egohands in [datasets/hand](https://github.com/TsengMJ/Hand_Segmentation/tree/master/datasets/hand)
 
 ## Training & Testing 
-If you want to train on your own dataset, please change the Paths in 
+Execute [src/train_hand_shape.ipynb](https://github.com/TsengMJ/Hand_Segmentation/blob/master/src/train_hand_shape.ipynb) for training and testing on our data.
+
+If you want to train on your own dataset, please change the Paths and beware the jason file's format
+
+## Result
+![](demo/1.png)
+![](demo/2.png)
+![](demo/3.png)
+![](demo/4.png)
+
+
+
+
 
 
