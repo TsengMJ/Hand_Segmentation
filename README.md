@@ -41,7 +41,8 @@ pip install mrcnn
 
 ## Preparing data 
 Try this [tools](http://www.robots.ox.ac.uk/~vgg/software/via/) to make your own training data, or Using [EgoHands Dataset](http://vision.soic.indiana.edu/projects/egohands/)
-We present a being processed dataset from egohands in [datasets/hand]
+
+We present a being processed dataset from egohands in [datasets/hand](https://github.com/TsengMJ/Hand_Segmentation/tree/master/datasets/hand)
 
 
 
