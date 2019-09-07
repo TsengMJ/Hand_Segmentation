@@ -33,17 +33,15 @@ conda install -c conda-forge opencv
 ```
 
 ### Mask-RCNN
-Download mrcnn for using 
+Download my files and mrcnn
 ```
+git clone https://github.com/TsengMJ/Hand_Segmentation.git
 pip install mrcnn
 ```
 
 ## Preparing data 
 Try this [tools](http://www.robots.ox.ac.uk/~vgg/software/via/) to make your own training data, or Using [EgoHands Dataset](http://vision.soic.indiana.edu/projects/egohands/)
-We present a being processed dataset from egohands
-```
-git clone 
-```
+We present a being processed dataset from egohands in [datasets/hand]
 
 
 
